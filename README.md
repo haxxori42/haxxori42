@@ -107,3 +107,32 @@ NOISE FLOOR     ██░░░░░░░░  low
 greetz: builders, tinkerers, people who document their systems.
 EOF
 ```
+
+---
+
+## [ai.arena.preview]
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ AI ARENA // PREVIEW // MAJOR MODEL PROVIDERS                ║
+║ playful view, not investment advice                          ║
+╚══════════════════════════════════════════════════════════════╝
+
+LEGEND: score = current practical edge (quality+speed+ecosystem+price)
+
+OPENAI      🐉  ██████████░░  84
+ANTHROPIC   🦊  █████████░░░  79
+GOOGLE      🐯  ████████░░░░  74
+xAI         ⚡  ███████░░░░░  66
+MISTRAL     🐺  ██████░░░░░░  58
+META/LLAMA  🐗  ██████░░░░░░  56
+
+ROUND BREAKDOWN
+- quality/reasoning:      OpenAI ≈ Anthropic > Google
+- speed/throughput:       Google ≈ OpenAI > Anthropic
+- ecosystem/tooling:      OpenAI > Google > Anthropic
+- local/open flexibility: Mistral ≈ Llama > others
+
+next: convert this into monthly "arena rounds" with changelog.
+```
+
