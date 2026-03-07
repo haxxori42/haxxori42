@@ -1,81 +1,112 @@
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  M I C H A N  //  PRACTICAL AI SYSTEMS  //  RETRO MODE ON    ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║ HAXXORI42 // OPERATOR PROFILE DOSSIER // REV 03 // SIGNAL: CLEAN         ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-`SIGNAL: STABLE` • `STYLE: PLAYFUL-TECH` • `GOAL: VALUE > NOISE`
+`MODE: RETRO-TECH` • `STYLE: SPEC-SHEET` • `POLICY: VALUE > NOISE`
 
 </div>
 
 ---
 
-## ▌SYSTEM PROFILE
+## 00 / IDENTITY BLOCK
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ OPERATOR   : Michan                                          │
-│ DOMAIN     : AI Workflows · Automation · Self-Hosted Systems │
-│ PHILOSOPHY : Useful beats trendy                             │
-│ OUTPUT     : Clear systems with real-world impact            │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I build practical AI workflows and resilient automation stacks.
-No hype funnel. No empty buzzwords. Just useful systems that hold up in daily work.
-
----
-
-## ▌CURRENT FOCUS MODULES
-
-- 🤖 **AI Agents** for practical task execution
-- ⚙️ **Automation Pipelines** with reliable handoffs
-- 🧩 **Self-hosted tooling** with sane maintenance costs
-- 📊 **Observability & process clarity** (what works, what doesn't)
-- 🧠 **Human-friendly AI UX** for real teams
-
----
-
-## ▌STACK SNAPSHOT
-
-```text
-[n8n]──[Nextcloud]──[Docker]──[Ollama]──[GitHub]──[OpenClaw]
-   │         │          │         │          │          │
- automation  data       infra     local AI   versioning orchestration
+┌────────────────────────────────────────────────────────────────────────────┐
+│ OPERATOR   : Michan                                                       │
+│ DOMAIN     : Practical AI · Automation · Self-hosted Systems              │
+│ OPERATING  : Build useful things, keep them maintainable                  │
+│ OUTPUT     : Reliable workflows with measurable payoff                    │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ▌WORKING PRINCIPLES
+## 01 / MODULE INDEX
 
 ```text
-┌─ RULESET ────────────────────────────────────────────────────┐
-│ 1) Build what saves real time                               │
-│ 2) Prefer maintainable over fashionable                     │
-│ 3) Keep systems explainable                                 │
-│ 4) Ship → observe → iterate                                 │
-└──────────────────────────────────────────────────────────────┘
+[01] AGENT WORKFLOWS        -> task execution with clear handoffs
+[02] AUTOMATION PIPES       -> trigger → enrich → decide → act
+[03] SELF-HOSTED STACK      -> ownership, privacy, lower long-term cost
+[04] SIGNAL & OBSERVABILITY -> what changed, what failed, what improved
+[05] HUMAN UX LAYER         -> understandable systems for real people
 ```
 
 ---
 
-## ▌RETRO SIGNAL PANEL
+## 02 / SYSTEM ROUTING MAP
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ PROFILE MODE      : PRACTICAL AI                            │
-│ HYPE LEVEL        : ██░░░░░░░░  2/10                         │
-│ VALUE DENSITY     : ████████░░  8/10                         │
-│ MAINTAINABILITY   : ███████░░░  7/10                         │
-│ PLAYFULNESS       : ██████░░░░  6/10                         │
-└──────────────────────────────────────────────────────────────┘
+      input/events
+           │
+           ▼
+┌──────────────────┐
+│  trigger layer   │  cron / webhook / manual
+└────────┬─────────┘
+         │
+         ▼
+┌──────────────────┐      ┌──────────────────┐
+│ context builder  ├─────►│  ai agent node   │
+└────────┬─────────┘      └────────┬─────────┘
+         │                          │
+         ▼                          ▼
+┌──────────────────┐      ┌──────────────────┐
+│ decision rules   │◄────►│ action adapters  │
+└────────┬─────────┘      └────────┬─────────┘
+         │                          │
+         └──────────────┬───────────┘
+                        ▼
+               ┌──────────────────┐
+               │ logs + feedback  │
+               └──────────────────┘
 ```
 
 ---
 
-## ▌STATUS
+## 03 / STACK CARD
 
-`SYSTEM READY` · `OPEN TO COLLAB` · `BUILDING IN PUBLIC (SELECTIVELY)`
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ n8n        : orchestration / automation backbone                           │
+│ Nextcloud  : data, docs, collaboration surfaces                            │
+│ Docker     : reproducible runtime + isolation                              │
+│ Ollama     : local model runtime                                           │
+│ GitHub     : versioning + publication                                      │
+│ OpenClaw   : assistant operations + tooling                                │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 04 / ENGINEERING RULES
+
+```text
+[rule-1] solve real bottlenecks, not imaginary ones
+[rule-2] maintainable > fashionable
+[rule-3] explicit structure beats clever chaos
+[rule-4] ship -> measure -> adjust
+```
+
+---
+
+## 05 / SIGNAL PANEL
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ HYPE LEVEL        : ██░░░░░░░░  2/10                                      │
+│ VALUE DENSITY     : ████████░░  8/10                                      │
+│ MAINTAINABILITY   : ███████░░░  7/10                                      │
+│ EXPERIMENT RATE   : ██████░░░░  6/10                                      │
+│ FAILURE TOLERANCE : █████░░░░░  5/10  (fail fast, log clean)              │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 06 / STATUS
+
+`SYSTEM READY` • `OPEN TO COLLAB` • `SHIPPING QUIETLY`
 
