@@ -8,7 +8,7 @@
 USEFUL AI SYSTEMS // TECH ZINE // STILL A REAL REPO
 .       .       .       .        *      .       .       
     *         .      *       .       .        *
-   .      *         .      .      .       .       .
+ .       *         .      .      .       .        .
 ```
 
 ---
