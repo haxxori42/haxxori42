@@ -136,3 +136,35 @@ ROUND BREAKDOWN
 next: convert this into monthly "arena rounds" with changelog.
 ```
 
+## [ai.arena.matchcard]
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ AI ARENA // MATCHCARD // ROUND 01                           ║
+║ "who takes the badge this month?"                           ║
+╚══════════════════════════════════════════════════════════════╝
+
+┌───────────────────────┬──────────────────────────────────────┐
+│  CHALLENGERS          │  ARENA STATS                         │
+├───────────────────────┼──────────────────────────────────────┤
+│ 🐉 OpenAI             │ Power      ██████████░░ 84           │
+│ 🦊 Anthropic          │ Precision  █████████░░░ 79           │
+│ 🐯 Google             │ Speed      ████████░░░░ 74           │
+│ ⚡ xAI                │ Momentum   ███████░░░░░ 66           │
+│ 🐺 Mistral            │ Flex       ██████░░░░░░ 58           │
+│ 🐗 Llama/Meta         │ Open-core  ██████░░░░░░ 56           │
+└───────────────────────┴──────────────────────────────────────┘
+
+BOSS FIGHTS
+- Reasoning Gym    : 🦊 Anthropic vs 🐉 OpenAI
+- Speed Gym        : 🐯 Google vs 🐉 OpenAI
+- Budget Gym       : 🐗 Llama/Meta vs 🐺 Mistral
+- Ecosystem Gym    : 🐉 OpenAI vs 🐯 Google
+
+CURRENT BADGE HOLDER: 🐉 OpenAI (narrow lead)
+RIVAL ALERT        : 🦊 Anthropic (quality pressure)
+WILDCARD           : 🐯 Google (speed + integration)
+
+note: playful representation based on current public momentum.
+```
+
