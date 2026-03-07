@@ -168,3 +168,27 @@ WILDCARD           : 🐯 Google (speed + integration)
 note: playful representation based on current public momentum.
 ```
 
+## [ai.arena.top5.live]
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ AI ARENA // CODE LEADERBOARD TOP 5 (LIVE SNAPSHOT)          ║
+╚══════════════════════════════════════════════════════════════╝
+Source: https://arena.ai/leaderboard/code
+
+1. claude-opus-4-6-thinking       🐉  ████████████  1556  (Anthropic)
+2. claude-opus-4-6                🦊  ███████████░  1555  (Anthropic)
+3. claude-sonnet-4-6              🐯  ██████████░░  1523  (Anthropic)
+4. claude-opus-4-5-20251101-think ⚡  █████████░░░  1497  (Anthropic)
+5. claude-opus-4-5-20251101       🐺  ████████░░░░  1475  (Anthropic)
+
+BATTLE COUNT (from page):
+- #1 claude-opus-4-6-thinking → 2,553 votes
+- #2 claude-opus-4-6 → 3,273 votes
+- #3 claude-sonnet-4-6 → 3,150 votes
+- #4 claude-opus-4-5-20251101-thinking-32k → 11,859 votes
+- #5 claude-opus-4-5-20251101 → 11,994 votes
+
+Note: values are fetched from arena.ai and rendered in zine style.
+```
+
