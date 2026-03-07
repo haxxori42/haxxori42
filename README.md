@@ -5,7 +5,7 @@
 ██╔══██║██╔══██║ ██╔██╗  ██╔██╗ ██║   ██║██╔══██╗██║
 ██║  ██║██║  ██║██╔╝ ██╗██╔╝ ██╗╚██████╔╝██║  ██║██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-REPO PROFILE // ISSUE 05 // RETRO ANSI PLAY MODE
+USEFUL AI SYSTEMS // TECH ZINE // STILL A REAL REPO
 ```
 
 <div align="center">
