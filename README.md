@@ -7,13 +7,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
 USEFUL AI SYSTEMS // TECH ZINE // STILL A REAL REPO
 ```
-
-<div align="center">
-
-`practical ai systems` • `retro tech zine aesthetics` • `still a real repo`
-
-</div>
-
 ```text
 .       .       .       .        .       .       .       .
     *         .      .      *          .      *
