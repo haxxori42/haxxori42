@@ -1,6 +1,6 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  M I C H A N  //  PRACTICAL AI SYSTEMS  //  RETRO MODE ON  ║
+║  M I C H A N  //  PRACTICAL AI SYSTEMS  //  RETRO MODE ON    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
