@@ -5,25 +5,27 @@
 ██╔══██║██╔══██║ ██╔██╗  ██╔██╗ ██║   ██║██╔══██╗██║
 ██║  ██║██║  ██║██╔╝ ██╗██╔╝ ██╗╚██████╔╝██║  ██║██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-ISSUE // 01   HEADER // HAXXORI   SIGNAL // CLEAN STATIC NOISE
+REPO PROFILE // ISSUE 05 // RETRO ANSI PLAY MODE
 ```
 
 <div align="center">
 
-`internet-tech` · `cracker-zine vibe` · `practical systems only`
+`practical ai systems` • `retro tech zine aesthetics` • `still a real repo`
 
 </div>
 
+```text
+.       .       .       .        .       .       .       .
+    *         .      .      *          .      *
+  .      *         .      .      .         .
+```
+
 ---
 
-## [manifest.txt]
+## [readme.intent]
 
-```text
-we build tools that do real work.
-we document what matters.
-we avoid hype theater.
-we ship, break, patch, repeat.
-```
+This profile keeps a **scene-inspired visual style** while staying useful as a technical repository front page.
+No copied titles, no cosplay. Just original vibe + clear content.
 
 ---
 
@@ -32,36 +34,39 @@ we ship, break, patch, repeat.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │ handle      : michan                                         │
-│ zone        : ai workflows / automation / self-hosted        │
-│ method      : structure first, magic second                  │
-│ preference  : clear systems > shiny chaos                    │
+│ node        : haxxori42                                      │
+│ focus       : ai workflows / automation / self-hosted        │
+│ method      : useful > loud                                  │
+│ build style : ship, log, refine                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## [stack.map]
+## [system.map]
 
 ```text
-           +----------------+
-input ---> | trigger layer  | <--- cron/webhook/manual
-           +--------+-------+
-                    |
-                    v
-           +----------------+      +----------------+
-           | context build  +----->| agent runtime  |
-           +--------+-------+      +--------+-------+
-                    |                       |
-                    v                       v
-           +----------------+      +----------------+
-           | rule engine    +<---->| action adapters|
-           +--------+-------+      +--------+-------+
-                    \_____________________/
-                              |
-                              v
-                     +-------------------+
-                     | logs + feedback   |
-                     +-------------------+
+input/events
+     │
+     ▼
+┌───────────────┐
+│ trigger layer │  cron / webhook / manual
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐       ┌───────────────┐
+│ context build │ ----> │  agent logic  │
+└───────┬───────┘       └───────┬───────┘
+        │                       │
+        ▼                       ▼
+┌───────────────┐ <----> ┌───────────────┐
+│ rule engine   │        │ action adapters│
+└───────┬───────┘        └───────┬───────┘
+        └──────────────┬─────────┘
+                       ▼
+                ┌───────────────┐
+                │ logs/feedback │
+                └───────────────┘
 ```
 
 ---
@@ -69,22 +74,11 @@ input ---> | trigger layer  | <--- cron/webhook/manual
 ## [module.index]
 
 ```text
-[01] AGENT OPS         task execution with explicit handoff
-[02] AUTO PIPES        trigger → enrich → decide → execute
-[03] SELF-HOST CORE    ownership, privacy, cost control
-[04] SIGNAL PANEL      observability + postmortem discipline
-[05] HUMAN LAYER       understandable UX for non-robots
-```
-
----
-
-## [ruleset.sys]
-
-```text
-> solve bottlenecks, not fantasy problems
-> maintainable beats fashionable
-> readable beats clever
-> if it cannot be explained, it is not finished
+[01] AGENT OPS         practical task execution with clear handoff
+[02] AUTOMATION PIPES  trigger → enrich → decide → execute
+[03] SELF-HOST CORE    ownership + privacy + cost control
+[04] OBSERVABILITY     signal, errors, postmortems
+[05] HUMAN LAYER       understandable outputs for real people
 ```
 
 ---
@@ -95,16 +89,30 @@ input ---> | trigger layer  | <--- cron/webhook/manual
 HYPE            ██░░░░░░░░  2/10
 VALUE DENSITY   ████████░░  8/10
 MAINTAINABILITY ███████░░░  7/10
-EXPERIMENT RATE ██████░░░░  6/10
+PLAYFULNESS     ███████░░░  7/10
 NOISE FLOOR     ██░░░░░░░░  low
+```
+
+---
+
+## [mini.ansi.mascot]
+
+```text
+        /\_/\
+   .--.( o.o )
+  / .-.\  ^  /   node-cat online
+ | |   | ---'    watching logs...
+  \ '-' /
+   '--'`
 ```
 
 ---
 
 ## [status]
 
-`NODE: ONLINE` · `MODE: BUILDING QUIETLY` · `COLLAB: OPEN`
+`NODE: ONLINE` • `REPO: ACTIVE` • `COLLAB: OPEN`
 
 ```text
+greetz: builders, tinkerers, people who document their systems.
 EOF
 ```
