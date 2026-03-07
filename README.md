@@ -1,112 +1,110 @@
 ```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║ HAXXORI42 // OPERATOR PROFILE DOSSIER // REV 03 // SIGNAL: CLEAN         ║
-╚════════════════════════════════════════════════════════════════════════════╝
+███╗   ██╗███████╗████████╗███████╗██╗███╗   ██╗███████╗
+████╗  ██║██╔════╝╚══██╔══╝╚══███╔╝██║████╗  ██║██╔════╝
+██╔██╗ ██║█████╗     ██║     ███╔╝ ██║██╔██╗ ██║█████╗
+██║╚██╗██║██╔══╝     ██║    ███╔╝  ██║██║╚██╗██║██╔══╝
+██║ ╚████║███████╗   ██║   ███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+ISSUE // 01   NODE // haxxori42   SIGNAL // CLEAN STATIC NOISE
 ```
 
 <div align="center">
 
-`MODE: RETRO-TECH` • `STYLE: SPEC-SHEET` • `POLICY: VALUE > NOISE`
+`internet-tech` · `cracker-zine vibe` · `practical systems only`
 
 </div>
 
 ---
 
-## 00 / IDENTITY BLOCK
+## [manifest.txt]
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│ OPERATOR   : Michan                                                       │
-│ DOMAIN     : Practical AI · Automation · Self-hosted Systems              │
-│ OPERATING  : Build useful things, keep them maintainable                  │
-│ OUTPUT     : Reliable workflows with measurable payoff                    │
-└────────────────────────────────────────────────────────────────────────────┘
+we build tools that do real work.
+we document what matters.
+we avoid hype theater.
+we ship, break, patch, repeat.
 ```
 
 ---
 
-## 01 / MODULE INDEX
+## [operator.card]
 
 ```text
-[01] AGENT WORKFLOWS        -> task execution with clear handoffs
-[02] AUTOMATION PIPES       -> trigger → enrich → decide → act
-[03] SELF-HOSTED STACK      -> ownership, privacy, lower long-term cost
-[04] SIGNAL & OBSERVABILITY -> what changed, what failed, what improved
-[05] HUMAN UX LAYER         -> understandable systems for real people
+┌──────────────────────────────────────────────────────────────┐
+│ handle      : michan                                         │
+│ zone        : ai workflows / automation / self-hosted        │
+│ method      : structure first, magic second                  │
+│ preference  : clear systems > shiny chaos                    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 02 / SYSTEM ROUTING MAP
+## [stack.map]
 
 ```text
-      input/events
-           │
-           ▼
-┌──────────────────┐
-│  trigger layer   │  cron / webhook / manual
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐      ┌──────────────────┐
-│ context builder  ├─────►│  ai agent node   │
-└────────┬─────────┘      └────────┬─────────┘
-         │                          │
-         ▼                          ▼
-┌──────────────────┐      ┌──────────────────┐
-│ decision rules   │◄────►│ action adapters  │
-└────────┬─────────┘      └────────┬─────────┘
-         │                          │
-         └──────────────┬───────────┘
-                        ▼
-               ┌──────────────────┐
-               │ logs + feedback  │
-               └──────────────────┘
+           +----------------+
+input ---> | trigger layer  | <--- cron/webhook/manual
+           +--------+-------+
+                    |
+                    v
+           +----------------+      +----------------+
+           | context build  +----->| agent runtime  |
+           +--------+-------+      +--------+-------+
+                    |                       |
+                    v                       v
+           +----------------+      +----------------+
+           | rule engine    +<---->| action adapters|
+           +--------+-------+      +--------+-------+
+                    \_____________________/
+                              |
+                              v
+                     +-------------------+
+                     | logs + feedback   |
+                     +-------------------+
 ```
 
 ---
 
-## 03 / STACK CARD
+## [module.index]
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│ n8n        : orchestration / automation backbone                           │
-│ Nextcloud  : data, docs, collaboration surfaces                            │
-│ Docker     : reproducible runtime + isolation                              │
-│ Ollama     : local model runtime                                           │
-│ GitHub     : versioning + publication                                      │
-│ OpenClaw   : assistant operations + tooling                                │
-└────────────────────────────────────────────────────────────────────────────┘
+[01] AGENT OPS         task execution with explicit handoff
+[02] AUTO PIPES        trigger → enrich → decide → execute
+[03] SELF-HOST CORE    ownership, privacy, cost control
+[04] SIGNAL PANEL      observability + postmortem discipline
+[05] HUMAN LAYER       understandable UX for non-robots
 ```
 
 ---
 
-## 04 / ENGINEERING RULES
+## [ruleset.sys]
 
 ```text
-[rule-1] solve real bottlenecks, not imaginary ones
-[rule-2] maintainable > fashionable
-[rule-3] explicit structure beats clever chaos
-[rule-4] ship -> measure -> adjust
+> solve bottlenecks, not fantasy problems
+> maintainable beats fashionable
+> readable beats clever
+> if it cannot be explained, it is not finished
 ```
 
 ---
 
-## 05 / SIGNAL PANEL
+## [signal.panel]
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│ HYPE LEVEL        : ██░░░░░░░░  2/10                                      │
-│ VALUE DENSITY     : ████████░░  8/10                                      │
-│ MAINTAINABILITY   : ███████░░░  7/10                                      │
-│ EXPERIMENT RATE   : ██████░░░░  6/10                                      │
-│ FAILURE TOLERANCE : █████░░░░░  5/10  (fail fast, log clean)              │
-└────────────────────────────────────────────────────────────────────────────┘
+HYPE            ██░░░░░░░░  2/10
+VALUE DENSITY   ████████░░  8/10
+MAINTAINABILITY ███████░░░  7/10
+EXPERIMENT RATE ██████░░░░  6/10
+NOISE FLOOR     ██░░░░░░░░  low
 ```
 
 ---
 
-## 06 / STATUS
+## [status]
 
-`SYSTEM READY` • `OPEN TO COLLAB` • `SHIPPING QUIETLY`
+`NODE: ONLINE` · `MODE: BUILDING QUIETLY` · `COLLAB: OPEN`
 
+```text
+EOF
+```
