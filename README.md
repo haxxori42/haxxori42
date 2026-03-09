@@ -21,7 +21,7 @@
 │  * ai workflows that actually do things                          │
 │  * repozine — published from the terminal                        │
 │  * ai platform ops at enterprise scale                           │
-│  * closing the gap between business and working systems          │
+│  * closing the gap between business and tech                     │
 │                                                                  │
 │  [principles]                                                    │
 │  build things that save real time                                │
@@ -31,6 +31,7 @@
 │                                                                  │ 
 ◇ ──────────────────────────────────────────────────────────────── ◇
 ```
+
 
 
 
