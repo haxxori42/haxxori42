@@ -14,11 +14,12 @@
 ---
 
 ```text
-◇ ─ ABOUT ME ───────────────────────────────────────────────────── ◇                
-│ greetz builders, tinkerers, people who document their systems    │
-│ repo + zine + AI = your daily dose of machine drama              │                 
-│ published from the terminal.                                     │  
-│ EOF                                                              │
+◇ ─ ABOUT ──────────────────────────────────────────────────────── ◇
+│ i map human systems for a living.                                │
+│ sometimes they run on servers. sometimes on vibes.               │
+│                                                                  │
+│ currently: making ai behave in production.                       │
+│ side effects: bots, zines, too much documentation.               │
 ◇ ──────────────────────────────────────────────────────────────── ◇
 
 ```
