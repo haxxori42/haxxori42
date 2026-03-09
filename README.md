@@ -16,13 +16,14 @@
 ## [readme.intent]
 
 ```text
-◇ ───────────────────────────────────────────────────────────── ◇                                               
+◇ ───────────────────────────────────────────────────────────── ◇                
 │ greetz builders, tinkerers, people who document their systems │
-│ repo + zine + AI = your daily dose of machine drama           │                                              
-│ published from the terminal.                                  │                                                            
-│ EOF                                                           │                                              
+│ repo + zine + AI = your daily dose of machine drama           │                 
+│ published from the terminal.                                  │  
+│ EOF                                                           │
 ◇ ───────────────────────────────────────────────────────────── ◇
 
 ```
 ---
+
 
