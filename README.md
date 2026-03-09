@@ -19,7 +19,7 @@
 │ sometimes they run on servers. sometimes on vibes.               │
 │                                                                  │
 │ currently: making ai behave in production.                       │
-│ side effects: bots, zines, too much documentation.               │
+│ side effects: autonomous agents, zines, too much documentation.  │
 ◇ ──────────────────────────────────────────────────────────────── ◇
 
 ```
