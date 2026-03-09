@@ -9,11 +9,6 @@
    .    *      .      *      .    .      *      .    *      .     .
 .      .    *      .      .      *    .      .    *      .     .
    *      .      .    *      .      .      *      .    .     *     .
-```
-
----
-
-```text
 ◇ ─ ABOUT ──────────────────────────────────────────────────────── ◇
 │ i map human systems for a living.                                │
 │ sometimes they run on servers. sometimes on vibes.               │
@@ -24,6 +19,7 @@
 
 ```
 ---
+
 
 
 
