@@ -11,7 +11,7 @@
    *      .      .    *      .      .      *      .    .     *     .
 ◇ ──────────────────────────────────────────────────────────────── ◇
 │                                                                  │
-│  i´m mia, i map human systems for a living.                      │
+│  hi! i´m mia, i map human systems for a living.                  │
 │  sometimes they run on servers. sometimes on vibes.              │
 │                                                                  │
 │  currently making ai behave in production.                       │
@@ -31,6 +31,7 @@
 │                                                                  │ 
 ◇ ──────────────────────────────────────────────────────────────── ◇
 ```
+
 
 
 
