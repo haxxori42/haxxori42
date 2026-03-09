@@ -16,9 +16,9 @@
 │ currently: making ai behave in production.                       │
 │ side effects: autonomous agents, zines, too much documentation.  │
 ◇ ──────────────────────────────────────────────────────────────── ◇
-
 ```
 ---
+
 
 
 
